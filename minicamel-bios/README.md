@@ -1,9 +1,7 @@
-# ITX-Llama BIOS
+# MiniCamel BIOS
 
-This repo contains the tools necessary to build the [ITX-Llama](https://github.com/eivindbohler/itxllama) BIOS (Coreboot/SeaBIOS).  
+This repo contains the tools necessary to build the MiniCamel BIOS (Coreboot/SeaBIOS).  
 Based on the 86Duino project from https://github.com/roboard/build-coreboot  
-
-For help or feedback, try the [ITX-Llama thread on Vogons](https://www.vogons.org/viewtopic.php?t=93480)!
 
 Tested on:
 * Ubuntu 16.04 i386
